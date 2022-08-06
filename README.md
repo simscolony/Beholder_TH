@@ -7,9 +7,9 @@ Beholder[ภาษาไทย] 2022
 
 Move floder all to Beholder_Data
 
- SIMSCOLONY THAI| Beholder[ภาษาไทย] 2022|รายละเอียด|
+ Beholder THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V51| [แปลไทย Beholder[ภาษาไทย] 2022 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder%5B%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2%5D%202022.7z) |แปลไทย|
+| Beholder THAI| [แปลไทย Beholder[ภาษาไทย] 2022 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder%5B%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2%5D%202022.7z) |แปลไทย|
 
 ------------------------------
 PREVIEW
