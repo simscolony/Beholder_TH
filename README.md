@@ -4,7 +4,10 @@
 
 เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
 
-แตกไฟล์แล้วลงทับใน SteamLibrary\steamapps\common\Beholder\Beholder_Data
+แตกไฟล์แล้วลงทับใน 
+
+SteamLibrary\steamapps\common\Beholder\Beholder_Data
+
 Move floder all to Beholder_Data
 
  Beholder THAI| Download|รายละเอียด|
