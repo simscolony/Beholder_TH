@@ -4,21 +4,25 @@
 แตกไฟล์แล้วลงทับใน 
 SteamLibrary\steamapps\common\Beholder\Beholder_Data
 
+
+เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
+Extrack All file in to floder Beholder_Data
+
 ## Beholder 2 วิธีติดตั้ง
 แตกไฟล์แล้วลงทับใน 
 SteamLibrary\steamapps\common\Beholder\Beholder_Data
 
 เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
-
 Extrack All file in to floder Beholder_Data
-------------------------------
+
 
  Beholder THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | Beholder 1 THAI 99%| [แปลไทย Beholder 1 [ภาษาไทย] 2023 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder_THAI_2023.7z) |แปลไทย|
-| Beholder 2 THAI 80%| [แปลไทย Beholder2 [ภาษาไทย] 2023 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder2_THAI.7z) |บางส่วนแปล้วเข้าเกมแล้วไม่โหลด รอแก้ไข|
+| Beholder 2 THAI 80%| [แปลไทย Beholder2 [ภาษาไทย] 2023 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder2_THAI.7z) |ยังมีบางส่วไม่ได้แปล/ สระจะจม ยังแก้ไม่ได้|
 
-ป.ล. Beholder 2 ใส่แปลหมดแล้ว ERRRO ใส่ได้เท่านี้ รอแก้ไขในอัปเดทต่อไป
+ป.ล. Beholder 2 ใส่แปลหมดแล้ว ERRROR ใส่ได้เท่านี้ รอแก้ไขในอัปเดทต่อไป /
+
 ------------------------------
 ## PREVIEW Beholder 1
 
