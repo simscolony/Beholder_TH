@@ -26,6 +26,9 @@ Extrack All file in to floder Beholder_Data
 
 
 ## PREVIEW Beholder 2
-![Beholder01](https://i.imgur.com/L0eVdX8.png)
-![Beholder02](https://i.imgur.com/5PJHn2T.png)
-![Beholder03](https://i.imgur.com/ECyiBc7.png)
+![Beholder01](https://i.imgur.com/IFvg0lA.png)
+![Beholder02](https://i.imgur.com/L5bBd5v.png)
+![Beholder03](https://i.imgur.com/MWCYuZH.png)
+![Beholder04](https://i.imgur.com/xBg8yUP.png)
+![Beholder05](https://i.imgur.com/VZJ8UEI.png)
+
