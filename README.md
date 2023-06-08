@@ -34,17 +34,21 @@ Extrack All file in to floder Beholder_Data
 ป.ล. Beholder 2 ใส่แปลหมดแล้ว ERRROR ใส่ได้เท่านี้ รอแก้ไขในอัปเดทต่อไป /
 
 ------------------------------
-## PREVIEW Beholder 1
 
+<details>
+<summary> PREVIEW Beholder 1</summary>
 ![Beholder10](https://i.imgur.com/L0eVdX8.png)
 ![Beholder11](https://i.imgur.com/5PJHn2T.png)
 ![Beholder12](https://i.imgur.com/ECyiBc7.png)
+</details>
 
 
-## PREVIEW Beholder 2
+<details>
+<summary> PREVIEW Beholder 2</summary>
 ![Beholder21](https://i.imgur.com/IFvg0lA.png)
 ![Beholder22](https://i.imgur.com/L5bBd5v.png)
 ![Beholder23](https://i.imgur.com/MWCYuZH.png)
 ![Beholder24](https://i.imgur.com/xBg8yUP.png)
 ![Beholder25](https://i.imgur.com/VZJ8UEI.png)
+ </details>
 
