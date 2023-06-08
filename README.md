@@ -1,5 +1,5 @@
 # Beholder 1-2 [ภาษาไทย] 2023
-
+![Beholder01](https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343)![Beholder02](https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343)![Beholder03](https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/download-beholder-3-offer-i48aa.png)
 ## Beholder 1 วิธีติดตั้ง
 แตกไฟล์แล้วลงทับใน 
 SteamLibrary\steamapps\common\Beholder\Beholder_Data
@@ -27,15 +27,15 @@ Extrack All file in to floder Beholder_Data
 ------------------------------
 ## PREVIEW Beholder 1
 
-![Beholder01](https://i.imgur.com/L0eVdX8.png)
-![Beholder02](https://i.imgur.com/5PJHn2T.png)
-![Beholder03](https://i.imgur.com/ECyiBc7.png)
+![Beholder10](https://i.imgur.com/L0eVdX8.png)
+![Beholder11](https://i.imgur.com/5PJHn2T.png)
+![Beholder12](https://i.imgur.com/ECyiBc7.png)
 
 
 ## PREVIEW Beholder 2
-![Beholder01](https://i.imgur.com/IFvg0lA.png)
-![Beholder02](https://i.imgur.com/L5bBd5v.png)
-![Beholder03](https://i.imgur.com/MWCYuZH.png)
-![Beholder04](https://i.imgur.com/xBg8yUP.png)
-![Beholder05](https://i.imgur.com/VZJ8UEI.png)
+![Beholder21](https://i.imgur.com/IFvg0lA.png)
+![Beholder22](https://i.imgur.com/L5bBd5v.png)
+![Beholder23](https://i.imgur.com/MWCYuZH.png)
+![Beholder24](https://i.imgur.com/xBg8yUP.png)
+![Beholder25](https://i.imgur.com/VZJ8UEI.png)
 
