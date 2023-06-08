@@ -8,23 +8,7 @@
 - [x] Beholder 2 :tada:
 - [ ] Beholder 3
 
-
-## Beholder 1 วิธีติดตั้ง
-แตกไฟล์แล้วลงทับใน 
-SteamLibrary\steamapps\common\Beholder\Beholder_Data
-
-
-เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
-Extrack All file in to floder Beholder_Data
-
-## Beholder 2 วิธีติดตั้ง
-แตกไฟล์แล้วลงทับใน 
-SteamLibrary\steamapps\common\Beholder\Beholder_Data
-
-เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
-Extrack All file in to floder Beholder_Data
-
-
+## Download
  Beholder THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | Beholder 1 THAI 99%| [แปลไทย Beholder 1 [ภาษาไทย] 2023 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder_THAI_2023.7z) |แปลไทย|
@@ -35,6 +19,14 @@ Extrack All file in to floder Beholder_Data
 
 ------------------------------
 
+## Beholder 1 วิธีติดตั้ง
+แตกไฟล์แล้วลงทับใน 
+SteamLibrary\steamapps\common\Beholder\Beholder_Data
+
+เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
+
+Extrack All file in to floder Beholder_Data
+
 <details>
 <summary> PREVIEW Beholder 1</summary>
 ![Beholder10](https://i.imgur.com/L0eVdX8.png)
@@ -42,6 +34,15 @@ Extrack All file in to floder Beholder_Data
 ![Beholder12](https://i.imgur.com/ECyiBc7.png)
 </details>
 
+------------------------------
+
+## Beholder 2 วิธีติดตั้ง
+แตกไฟล์แล้วลงทับใน 
+SteamLibrary\steamapps\common\Beholder2\Beholder_Data
+
+เปิดไฟล์>ลากไฟล์ไปลงที่ตัวเกม> เข้าเกม
+
+Extrack All file in to floder Beholder_Data
 
 <details>
 <summary> PREVIEW Beholder 2</summary>
