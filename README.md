@@ -1,7 +1,5 @@
 # Beholder 1-3 [ภาษาไทย] 2023
-<img src="https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343"  width="300" height="400">
-<img src="https://images.gog-statics.com/a90fbf2eaa93a436acac6277875af1acacf1c141c6cb133bdddf7ed363a28bf5.jpg"  width="300" height="400">
-<img src="https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/download-beholder-3-offer-i48aa.png"  width="300" height="400">
+<img src="https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343"  width="200" height="300"><img src="https://images.gog-statics.com/a90fbf2eaa93a436acac6277875af1acacf1c141c6cb133bdddf7ed363a28bf5.jpg"  width="200" height="300"><img src="https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/download-beholder-3-offer-i48aa.png"  width="200" height="300">
 
 # Update in game
 - [x] Beholder 1 :tada:
@@ -27,12 +25,11 @@ SteamLibrary\steamapps\common\Beholder\Beholder_Data
 
 Extrack All file in to floder Beholder_Data
 
-<details>
-<summary> PREVIEW Beholder 1</summary>
+### PREVIEW Beholder 1
 ![Beholder10](https://i.imgur.com/L0eVdX8.png)
 ![Beholder11](https://i.imgur.com/5PJHn2T.png)
 ![Beholder12](https://i.imgur.com/ECyiBc7.png)
-</details>
+
 
 ------------------------------
 
@@ -44,12 +41,11 @@ SteamLibrary\steamapps\common\Beholder2\Beholder_Data
 
 Extrack All file in to floder Beholder_Data
 
-<details>
-<summary> PREVIEW Beholder 2</summary>
+### PREVIEW Beholder 2<
 ![Beholder21](https://i.imgur.com/IFvg0lA.png)
 ![Beholder22](https://i.imgur.com/L5bBd5v.png)
 ![Beholder23](https://i.imgur.com/MWCYuZH.png)
 ![Beholder24](https://i.imgur.com/xBg8yUP.png)
 ![Beholder25](https://i.imgur.com/VZJ8UEI.png)
- </details>
+
 
