@@ -7,6 +7,7 @@
 - [ ] Beholder 3
 
 ## Download
+
  Beholder THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | Beholder 1 THAI 99%| [แปลไทย Beholder 1 [ภาษาไทย] 2023 ](https://github.com/simscolony/Beholder_TH/raw/main/Beholder_THAI_2023.7z) |แปลไทย|
