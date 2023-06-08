@@ -1,14 +1,13 @@
-# Beholder 1-2 [ภาษาไทย] 2023
+# Beholder 1-3 [ภาษาไทย] 2023
 <img src="https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343"  width="342" height="482">
- ![Beholder02](https://images.gog-statics.com/a90fbf2eaa93a436acac6277875af1acacf1c141c6cb133bdddf7ed363a28bf5.jpg "Beholder 2")<div style="width:342px ; height:482px">
-<img src="https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343](https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/download-beholder-3-offer-i48aa.png"  width="342" height="482">
-
-
+<img src="https://images.gog-statics.com/a90fbf2eaa93a436acac6277875af1acacf1c141c6cb133bdddf7ed363a28bf5.jpg"  width="342" height="482">
+<img src="https://store-images.s-microsoft.com/image/apps.6120.14209661524968334.e15059e5-2e8d-466c-adca-567dc85b5c3b.18b8cb12-5178-4b9c-9709-f9803d758343"  width="342" height="482">
 
 # Update in game
-- [x] Beholder 1
-- [x] Beholder 2
+- [x] Beholder 1 :tada:
+- [x] Beholder 2 :tada:
 - [ ] Beholder 3
+
 
 ## Beholder 1 วิธีติดตั้ง
 แตกไฟล์แล้วลงทับใน 
