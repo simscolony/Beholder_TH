@@ -43,7 +43,7 @@ Extrack All file in to floder Beholder_Data
 
 ------------------------------
 <img src="https://images.gog-statics.com/94a00c057b921e9aa53137266ce013b4ed30a6a547a4acca6d152e047674c41a_product_card_v2_logo_960x570.png"  width="480" height="270">
-<img src="https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-ud3jm.png"  width="558" height="314">
+<img src="https://images.gog-statics.com/d2b1530325d7853986a1869829303ea38eb3879edd24053450fb43c719028573_product_card_v2_mobile_slider_639.jpg"  width="558" height="314">
 
 ## Beholder 2 วิธีติดตั้ง
 แตกไฟล์แล้วลงทับใน 
