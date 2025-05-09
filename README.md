@@ -34,15 +34,12 @@ Extrack All file in to floder Beholder_Data
 
 ### PREVIEW Beholder 1
 ![Beholder10](https://images2.imgbox.com/9b/86/sTLWxLVC_o.jpg)
-![Beholder10](https://i.imgur.com/L0eVdX8.png)
-![Beholder11](https://i.imgur.com/5PJHn2T.png)
-![Beholder12](https://i.imgur.com/ECyiBc7.png)
-
-![Beholder10](https://images2.imgbox.com/a6/b4/ZXAPSwUq_o.jpg)
-![Beholder10](https://images2.imgbox.com/f3/4f/tlaX6645_o.jpg)
-![Beholder10](https://images2.imgbox.com/e3/4b/ATFj2eau_o.jpg)
-![Beholder10](https://images2.imgbox.com/c7/74/XUyWD4s0_o.jpg)
-![Beholder10](https://images2.imgbox.com/29/9e/5GfFRdCF_o.jpg)
+![Beholder11](https://i.imgur.com/ECyiBc7.png)
+![Beholder12](https://images2.imgbox.com/a6/b4/ZXAPSwUq_o.jpg)
+![Beholder13](https://images2.imgbox.com/f3/4f/tlaX6645_o.jpg)
+![Beholder14](https://images2.imgbox.com/e3/4b/ATFj2eau_o.jpg)
+![Beholder15](https://images2.imgbox.com/c7/74/XUyWD4s0_o.jpg)
+![Beholder16](https://images2.imgbox.com/29/9e/5GfFRdCF_o.jpg)
 
 ------------------------------
 <img src="https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-ud3jm.png"  width="558" height="314">
