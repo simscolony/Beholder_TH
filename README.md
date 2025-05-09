@@ -42,6 +42,7 @@ Extrack All file in to floder Beholder_Data
 ![Beholder16](https://images2.imgbox.com/29/9e/5GfFRdCF_o.jpg)
 
 ------------------------------
+<img src="https://images.gog-statics.com/94a00c057b921e9aa53137266ce013b4ed30a6a547a4acca6d152e047674c41a_product_card_v2_logo_960x570.png"  width="480" height="270">
 <img src="https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-ud3jm.png"  width="558" height="314">
 
 ## Beholder 2 วิธีติดตั้ง
@@ -60,8 +61,8 @@ Extrack All file in to floder Beholder_Data
 ![Beholder25](https://i.imgur.com/VZJ8UEI.png)
 
 ------------------------------
-<img src="https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-ud3jm.png"  width="558" height="314">
-<img src="https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/beholder-3-logo-1h8ke.png?resize=1&w=480&h=270&quality=medium  width="480" height="270">
+<img src="https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/beholder-3-logo-1h8ke.png?resize=1&w=480&h=270&quality=medium"  width="480" height="270">
+<img src="https://cdn1.epicgames.com/spt-assets/c6d68f6dca604fce9040b5e534c60cec/beholder-3-video-fzb4w.jpg?resize=1&w=480&h=270&quality=medium"  width="480" height="270">
 ## Beholder 3 วิธีติดตั้ง
 
 
